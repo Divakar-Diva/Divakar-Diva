@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Divakar-Diva&theme=dark&show_icons=true" alt="DivakarStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar=diva&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-diva&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 *NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
@@ -52,6 +52,6 @@
 </p>
 
 -----
-Credits: [Shwetang550](https://github.com/Divakar-Diva)
+Credits: [Divakar-Diva](https://github.com/Divakar-Diva)
 
 Last Edited on: 23/04/2026
