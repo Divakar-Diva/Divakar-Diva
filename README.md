@@ -1,8 +1,7 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/Divakar-Diva">K Divakar</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
-  <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
-  <a href="https://twitter.com/Shwetang550">Twitter</a>
+  <a href="https://www.linkedin.com/in/divakar498">LinkedIN</a> •
+  
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
@@ -10,9 +9,9 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Python. 
+- 🌱  I’m currently learning Java Full Stack. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: shwetangsingh5@gmail.com.
+- 📫  How to reach me: divakardiva498@gmail.com.
 
 ***
 
@@ -20,10 +19,10 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Divakar-Diva&theme=dark&show_icons=true" alt="DivakarStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar=diva&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 *NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
@@ -49,10 +48,10 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/Divakar-Diva/count.svg" />
 </p>
 
 -----
-Credits: [Shwetang550](https://github.com/Shwetang550)
+Credits: [Shwetang550](https://github.com/Divakar-Diva)
 
-Last Edited on: 15/01/2021
+Last Edited on: 23/04/2026
