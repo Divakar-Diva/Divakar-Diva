@@ -1,57 +1,76 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/Divakar-Diva">K Divakar</a></h2>
+<h1 align="center">Hi 👋, I'm K Divakar</h1>
+<h3 align="center">Aspiring Java Full Stack Developer | Backend-Focused | ML Enthusiast</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/divakar498">LinkedIN</a> •
-  
+  <a href="https://www.linkedin.com/in/divakar498">LinkedIn</a> •
+  <a href="mailto:divakardiva498@gmail.com">Email</a>
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<img align="right" height="160rem" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp" />
 
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Java Full Stack. 
-- 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: divakardiva498@gmail.com.
+### 🚀 About Me
+- 💻 Aspiring **Java Full Stack Developer** with strong backend interest  
+- 🌱 Currently learning **Spring Boot & Backend Development**  
+- 🤖 Experience in **Machine Learning, NLP & Deep Learning**  
+- 🧠 Built projects like **Hybrid RAG Medical Chatbot**  
+- 📫 Reach me at: **divakardiva498@gmail.com**
 
-***
+---
 
- <br>
+### 🛠️ Tech Stack
 
-📈 My Github stats <br />
+#### 💻 Languages
+Java • Python • SQL • JavaScript  
+
+#### ⚙️ Backend
+Spring Boot (Learning) • REST APIs  
+
+#### 🌐 Frontend
+HTML • CSS • React.js (Basics)  
+
+#### 🤖 Machine Learning
+TensorFlow • Keras • Scikit-learn • NLP  
+
+#### 🛠️ Tools
+Git • GitHub • Postman • IntelliJ • VS Code  
+
+---
+
+### 📌 Featured Projects
+- 🧠 **Healthcare Hybrid RAG System**  
+  → Built a Retrieval-Augmented Generation system using FAISS + LLM  
+
+- 🛒 **E-Commerce Backend System**  
+  → Developed REST APIs using Spring Boot & MySQL  
+
+- 🧩 **Quiz Application (Java)**  
+  → Console-based app using OOP concepts  
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divakar-Diva&theme=dark&show_icons=true" alt="DivakarStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Divakar-Diva&show_icons=true&theme=tokyonight" />
   <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-diva&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-Diva&layout=compact&theme=tokyonight" />
 </p>
 
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+---
 
-<br>
+### 🔥 Goals
+- 🚀 Become a **Java Backend Engineer**
+- 📈 Build scalable backend systems
+- 🤝 Contribute to real-world projects
 
-**Languages and Tools**
+---
 
-<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
-
-***
-
-<br />
-
-<p align="center"> 
-  Visitor count<br>
+### 👀 Profile Views
+<p align="center">
   <img src="https://profile-counter.glitch.me/Divakar-Diva/count.svg" />
 </p>
 
------
-Credits: [Divakar-Diva](https://github.com/Divakar-Diva)
+---
 
-Last Edited on: 23/04/2026
+⭐️ From [Divakar-Diva](https://github.com/Divakar-Diva)
