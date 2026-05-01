@@ -41,12 +41,9 @@
   → Console-based app using OOP  
 
 ---
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divakar-Diva&show_icons=true&theme=default" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-Diva&layout=compact&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=Divakar-Diva&theme=default" />
 </p>
 
 ---
