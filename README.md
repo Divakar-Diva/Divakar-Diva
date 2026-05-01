@@ -6,7 +6,8 @@
   <a href="mailto:divakardiva498@gmail.com">Email</a>
 </p>
 
-<img align="right" height="160rem" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp" />
+<!-- Professional coding GIF -->
+<img align="right" height="160" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
@@ -21,54 +22,38 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
-Java • Python • SQL • JavaScript  
-
-#### ⚙️ Backend
-Spring Boot (Learning) • REST APIs  
-
-#### 🌐 Frontend
-HTML • CSS • React.js (Basics)  
-
-#### 🤖 Machine Learning
-TensorFlow • Keras • Scikit-learn • NLP  
-
-#### 🛠️ Tools
-Git • GitHub • Postman • IntelliJ • VS Code  
+**Languages:** Java • Python • SQL • JavaScript  
+**Backend:** Spring Boot (Learning) • REST APIs  
+**Frontend:** HTML • CSS • React.js (Basics)  
+**ML/AI:** TensorFlow • Keras • Scikit-learn • NLP  
+**Tools:** Git • GitHub • Postman • IntelliJ • VS Code  
 
 ---
 
 ### 📌 Featured Projects
 - 🧠 **Healthcare Hybrid RAG System**  
-  → Built a Retrieval-Augmented Generation system using FAISS + LLM  
+  → Hybrid retrieval (FAISS + BM25) + LLM-based Q&A  
 
 - 🛒 **E-Commerce Backend System**  
-  → Developed REST APIs using Spring Boot & MySQL  
+  → Spring Boot REST APIs with MySQL  
 
 - 🧩 **Quiz Application (Java)**  
-  → Console-based app using OOP concepts  
+  → Console-based app using OOP  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divakar-Diva&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divakar-Diva&show_icons=true&theme=default" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-Diva&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divakar-Diva&layout=compact&theme=default" />
 </p>
-
----
-
-### 🔥 Goals
-- 🚀 Become a **Java Backend Engineer**
-- 📈 Build scalable backend systems
-- 🤝 Contribute to real-world projects
 
 ---
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Divakar-Diva/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Divakar-Diva&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
